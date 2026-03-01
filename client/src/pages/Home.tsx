@@ -292,7 +292,7 @@ export default function Home() {
             className="font-mono text-sm font-semibold gradient-text"
             data-testid="link-logo"
           >
-            {"<Dev />"}
+            {"<Om.Dev />"}
           </button>
 
           <div className="hidden md:flex items-center gap-1">
